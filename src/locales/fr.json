@@ -1,0 +1,9 @@
+{
+  "Component": {
+    "test": "Valeur par défault de votre clé de traduction",
+    "welcome": "Bienvenue {{user}}",
+    "header": {
+      "language": "Langue"
+    }
+  }
+}

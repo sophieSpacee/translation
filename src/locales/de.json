@@ -1,0 +1,9 @@
+{
+  "Component": {
+    "test": "Standardwert",
+    "welcome": "Willkommen {{user}}",
+    "header": {
+      "language": "Spräche"
+    }
+  }
+}

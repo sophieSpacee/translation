@@ -1,0 +1,9 @@
+{
+  "Component": {
+    "test": "Default value of your translation key",
+    "welcome": "Hello {{user}}",
+    "header": {
+      "language": "Language"
+    }
+  }
+}

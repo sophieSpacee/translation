@@ -18,3 +18,4 @@ You will also see any lint errors in the console.
 
 This command will generate or update your locales folder with added translation keys. 
 
+![Translation](/translation.gif)
